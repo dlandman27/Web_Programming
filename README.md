@@ -1,1 +1,10 @@
 # Web_Programming
+
+## TO ADD
+1. Local Storage
+2. HTTP GET/FETCH
+3. FETCH API
+4. CRUD
+  I. POSTMAN
+  II. ASYNCHRONOUS FUNCTIONS
+5. SQL 
